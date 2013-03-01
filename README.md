@@ -20,9 +20,7 @@ Works with Texexpander > 3.2.4, this version does not have count in it's library
 
 Anything above should work fine. 
 
-Download the .scpt file, Save your local copy, in the same folder as the script, create
-
-a folder called Data.
+Download the .scpt file, Save your local copy and in the same folder, create a folder "Data".
 
 Run with AppleScript Editor.
 
