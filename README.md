@@ -12,3 +12,18 @@ Saves 2 files, Master_List.txt, and a username.txt in Data folder, as back up of
 Must download and save snippet. Must have Data Folder for second file.
 
 Quick and Dirty :-)
+
+
+Usage:
+
+Works with Texexpander > 3.2.4, this version does not have count in it's library.
+
+Anything above should work fine. 
+
+Download the .scpt file, Save your local copy, in the same folder as the script, create
+
+a folder called Data.
+
+Run with AppleScript Editor.
+
+
