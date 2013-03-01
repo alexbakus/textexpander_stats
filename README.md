@@ -1,7 +1,7 @@
 textexpander_stats
 ==================
 
-Export Textexpander snippets and count per snippet into a text file. 
+Export Textexpander snippets and count per snippet into a tab delimited text file. 
 
 Can be used as proxy of most common issues dealt with.
 
